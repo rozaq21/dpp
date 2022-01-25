@@ -1,5 +1,5 @@
 <?php 
-$koneksi = mysqli_connect("localhost","root","","dpp");
+$koneksi = mysqli_connect("sql6.freemysqlhosting.net","sql6467901","ZCqELEZXvM","sql6467901");
  
 // Check connection
 if (mysqli_connect_errno()){
