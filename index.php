@@ -1,4 +1,4 @@
-<?php phpinfo();die(); ?>
+
 <!doctype html>
 <html lang="en">
 
